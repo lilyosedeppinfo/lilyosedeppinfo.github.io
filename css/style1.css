@@ -1,0 +1,29 @@
+.pinkclass {
+	background-color: #ff9999;
+}
+.paragraph1 {
+	font-size: 20px;
+	color:  white;
+}
+.jumbotron {
+	background-image: url("../img/lilyrose.jpg");
+}
+.btn {
+	background-color: white;
+	color: black;
+}
+.paragraph2 {
+	font-size: 35px;
+	color: #B76E79;
+	font-family: 'Permanent Marker', cursive;
+}
+.sentence1 {
+	color: #DDA6AE;
+}
+p {
+	margin-top: 100px
+}
+.sentence2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #FFE6EA;
+}

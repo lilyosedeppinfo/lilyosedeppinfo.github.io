@@ -1,0 +1,34 @@
+.img-width-fix {
+	max-width: 100%;
+}
+.name {
+	font-size: 50px;
+	color: white;
+	font-width: bold;
+	font-family: 'Pacifico', cursive;
+}
+.fa {
+	font-size: 30px;
+}
+.fa-female {
+	font-size: 20px;
+}
+.fa-globe {
+	font-size: 20px;
+}
+.fa-map-marker {
+	font-size: 20px;
+}
+
+.pinkclass {
+	background-color: #ff9999;
+}
+.body {
+	background-color: lightgray;
+}
+nav {
+	margin-bottom: 20px
+}
+footer {
+	color: white;
+}
